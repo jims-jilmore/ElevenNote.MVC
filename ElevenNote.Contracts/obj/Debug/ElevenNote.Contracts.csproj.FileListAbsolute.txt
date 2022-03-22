@@ -1,0 +1,16 @@
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll.config
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.dll
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\ElevenNote.Contracts.pdb
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
+C:\Users\james\source\repos\ElevenNote.WebMVC\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb
